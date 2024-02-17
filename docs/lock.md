@@ -3,7 +3,7 @@ sidebar_position: 5
 title: "Lock/ban a Prodigy account"
 ---
 
-## How to lock/ban a Prodigy account
+## How to lock/ban a Prodigy account jamesdragontamer
 1. Log into a Prodigy world
 2. `[Hack] Set Level` => 100
 3. Use the map to teleport to Harmony Island
